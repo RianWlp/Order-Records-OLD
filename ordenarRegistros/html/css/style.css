@@ -1,0 +1,50 @@
+    /*html,
+    body {
+        height: 100% !important;
+        width: 100%;
+    }
+    
+    
+    */
+    
+    h1{
+
+        text-align: center;
+        padding-top: 1%;
+        padding-bottom: 1%;
+
+    }
+
+    #table {
+        border: 2;
+        width: 100%;
+        text-align: center;
+        padding-top: 2%;
+    }
+
+    .alinhar {
+        /*
+        margin: 10px 10px 10px;
+        text-align: center;
+        position: relative;
+        height: 10%;
+
+        */
+        display: inline;
+    }
+
+    .espaco{
+
+
+        padding-top: 1%;
+    }
+    form {
+        height: 100%;
+    }
+    
+    a {
+        padding-left: 20px;
+        color: white;
+        text-decoration: none;
+        /* no underline */
+    }
